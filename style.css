@@ -1,0 +1,53 @@
+p{font-size: 200%
+    font-family:impact
+    text-decoration:underline;
+  }
+  #father #main #left #left-text #m-245 #a195 {
+  height: 115px;
+  background-image: url(https://th.bing.com/th/id/OIP.gJl5g725O50yNEw9Y7XIYAHaJw?pid=ImgDet&rs=1);
+}
+#father #main #left #left-text #m-245 #a195:hover {
+  height: 115px;
+  background-image: url(https://th.bing.com/th/id/OIP.PVTM5RynUK3D5qZnhubWGQHaLH?pid=ImgDet&rs=1);
+  transition-duration: 1s;
+}
+#father #main #left #left-text #m-245 #a196 {
+  height: 115px;
+  margin-top: 9px;
+  background-image: url(https://th.bing.com/th/id/R.74b3099703e1602c78a39513bf472a85?rik=5q2MJWcRbP%2bWlg&riu=http%3a%2f%2fvignette4.wikia.nocookie.net%2fwarhammer40k%2fimages%2ff%2fff%2fUnremembered_Empire_Artwork.jpg%2frevision%2flatest%3fcb%3d20140620204416&ehk=yrnX%2fHWhx%2btkCpWjc7LvjGIcuwAVXNKHitz%2fZederZE%3d&risl=&pid=ImgRaw&r=0);
+}
+#father #main #left #left-text #m-245 #a196:hover {
+  height: 115px;
+  background-image: url(https://s-media-cache-ak0.pinimg.com/originals/a1/42/fc/a142fc323323276b958a83c00346fbe2.jpg);
+  transition-duration: 1s;
+}
+
+  table{
+    border-collapse: collapse;
+  }
+  body {
+  background-color: lightblue;
+}
+.head{
+  background-color: lightgray;
+}
+
+#s{
+  text-shadow: 2px 2px 3px red;
+}
+    #et {
+  color: red;
+}
+    .nav{background-color: lightblue;
+      color: white
+      text-decoration:none;}
+       .nav:hover{
+        background-color: white;
+        color: black;
+       }
+       #change{
+        opacity: 0.3;
+       }
+       #change:hover{
+        opacity:1;
+         }
